@@ -1,5 +1,7 @@
 # Claude Minecraft Smoke-Test Bootstrap
 
+本项目由 BotVodka 使用 Claude Code 与 GPT-5.4 编写。
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![README: 中文](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue.svg)](./README.md)
 [![README: English](https://img.shields.io/badge/README-English-blue.svg)](./README.en.md)
