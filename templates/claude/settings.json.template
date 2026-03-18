@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MC_SMOKE_TEST_KIT_ROOT": "D:/path/to/minecraft-smoke-test-kit"
+  }
+}
